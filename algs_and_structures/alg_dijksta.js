@@ -1,3 +1,5 @@
+// Алгоритм Дейкстри
+
 const graph = {};
 graph.a = { b: 2, c: 1 };
 graph.b = { f: 7 };
