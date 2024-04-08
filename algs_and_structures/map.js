@@ -3,3 +3,7 @@ const objKey = { id: 5 };
 
 map.set('name', 'Yehor Khomich');
 map.get('name');
+
+
+const set = new Set()
+
